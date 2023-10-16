@@ -1,0 +1,397 @@
+[
+  {
+    "name": "The good place",
+    "date": "06/11/2020",
+    "id": "1"
+  },
+  {
+    "name": "Brooklyn Nine-Nine",
+    "date": "03/12/2021",
+    "id": "2"
+  },
+  {
+    "name": "Community",
+    "date": "28/12/2021",
+    "id": "3"
+  },
+  {
+    "name": "Arrested development",
+    "date": "11/01/2021",
+    "id": "4"
+  },
+  {
+    "name": "trailer park boys ",
+    "date": "07/02/2021",
+    "id": "5"
+  },
+  {
+    "name": "Atlanta ",
+    "date": "26/02/2021",
+    "id": "6"
+  },
+  {
+    "name": "Schit's creek ",
+    "date": "20/02/2021",
+    "id": "7"
+  },
+  {
+    "name": "Disenchantment ",
+    "date": "01/02/2021",
+    "id": "8"
+  },
+  {
+    "name": "what we do in the shadow ",
+    "date": "02/03/2021",
+    "id": "9"
+  },
+  {
+    "name": "a.p. bio",
+    "date": "09/03/2021",
+    "id": "10"
+  },
+  {
+    "name": "barry ",
+    "date": "14/03/2021",
+    "id": "11"
+  },
+  {
+    "name": "silicon valley ",
+    "date": "24/03/2021",
+    "id": "12"
+  },
+  {
+    "name": "mythic quest ",
+    "date": "26/03/2021",
+    "id": "13"
+  },
+  {
+    "name": "death note ",
+    "date": "21/04/2021",
+    "id": "14"
+  },
+  {
+    "name": "parks and recreation ",
+    "date": "27/04/2021",
+    "id": "15"
+  },
+  {
+    "name": "the big bang theory ",
+    "date": "16/06/2021",
+    "id": "16"
+  },
+  {
+    "name": "rick and morty (1 a 4 temp) ",
+    "date": "22/06/2021",
+    "id": "17"
+  },
+  {
+    "name": "its always sunny in philadelphia ",
+    "date": "20/07/2021",
+    "id": "18"
+  },
+  {
+    "name": "what we do in the shadows (season 3) ",
+    "date": "30/09/2021",
+    "id": "19"
+  },
+  {
+    "name": "ted lasso (até s02) ",
+    "date": "01/10/2021",
+    "id": "20"
+  },
+  {
+    "name": "brooklyn nine nine ",
+    "date": "08/11/2021",
+    "id": "21"
+  },
+  {
+    "name": "sherlock ",
+    "date": "31/10/2021",
+    "id": "22"
+  },
+  {
+    "name": "barry ",
+    "date": "28/11/2021",
+    "id": "23"
+  },
+  {
+    "name": "the sopranos",
+    "date": "01/12/2021",
+    "id": "24"
+  },
+  {
+    "name": "young sheldon ",
+    "date": "20/12/2021",
+    "id": "25"
+  },
+  {
+    "name": "hacks ",
+    "date": "28/12/2021",
+    "id": "26"
+  },
+  {
+    "name": "forest of piano",
+    "date": "09/02/2022",
+    "id": "27"
+  },
+  {
+    "name": "Sword art online 1 temporada",
+    "date": "23/02/2022",
+    "id": "28"
+  },
+  {
+    "name": "its always sunny in philadelphia (15ª temporada)",
+    "date": "01/03/2022",
+    "id": "29"
+  },
+  {
+    "name": "succession",
+    "date": "11/03/2022",
+    "id": "30"
+  },
+  {
+    "name": "jujutso kaisen",
+    "date": "14/03/2022",
+    "id": "31"
+  },
+  {
+    "name": "friends",
+    "date": "02/04/2022",
+    "id": "32"
+  },
+  {
+    "name": "mozart in the jungle",
+    "date": "20/04/2022",
+    "id": "34"
+  },
+  {
+    "name": "severance",
+    "date": "20/04/2022",
+    "id": "35"
+  },
+  {
+    "name": "peaky blinders",
+    "date": "24/04/2022",
+    "id": "36"
+  },
+  {
+    "name": "the newsroom",
+    "date": "08/05/2022",
+    "id": "37"
+  },
+  {
+    "name": "silicon valley",
+    "date": "21/05/2022",
+    "id": "38"
+  },
+  {
+    "name": "mr robot",
+    "date": "03/06/2022",
+    "id": "39"
+  },
+  {
+    "name": "invencible",
+    "date": "18/06/2022",
+    "id": "40"
+  },
+  {
+    "name": "arrested development",
+    "date": "27/06/2022",
+    "id": "41"
+  },
+  {
+    "name": "hacks s02",
+    "date": "29/06/2022",
+    "id": "42"
+  },
+  {
+    "name": "barry s03",
+    "date": "27/06/2022",
+    "id": "43"
+  },
+  {
+    "name": "Russian Doll s02",
+    "date": "04/07/2022",
+    "id": "44"
+  },
+  {
+    "name": "Stranger Things S04",
+    "date": "06/07/2022",
+    "id": "45"
+  },
+  {
+    "name": "The umbrella academy s03",
+    "date": "16/07/2022",
+    "id": "46"
+  },
+  {
+    "name": "the bear s01",
+    "date": "24/07/2022",
+    "id": "47"
+  },
+  {
+    "name": "challenger the last flight",
+    "date": "25/07/2022",
+    "id": "48"
+  },
+  {
+    "name": "Yellowjackets s01",
+    "date": "30/07/2022",
+    "id": "49"
+  },
+  {
+    "name": "the sandman",
+    "date": "07/08/2022",
+    "id": "50"
+  },
+  {
+    "name": "how I met your mother",
+    "date": "10/09/2022",
+    "id": "51"
+  },
+  {
+    "name": "the handmaids tale s04",
+    "date": "29/09/2022",
+    "id": "52"
+  },
+  {
+    "name": "Atlanta S04",
+    "date": "20/11/2022",
+    "id": "53"
+  },
+  {
+    "name": "Wandinha",
+    "date": "27/11/2022",
+    "id": "55"
+  },
+  {
+    "name": "ted lasso até s02",
+    "date": "25/11/2022",
+    "id": "56"
+  },
+  {
+    "name": "ghosts s04",
+    "date": "05/12/2022",
+    "id": "57"
+  },
+  {
+    "name": "the last man on earth",
+    "date": "21/10/2022",
+    "id": "58"
+  },
+  {
+    "name": "what we do in the shadow s04",
+    "date": "10/12/2022",
+    "id": "59"
+  },
+  {
+    "name": "resident alien ate s02",
+    "date": "25/12/2022",
+    "id": "60"
+  },
+  {
+    "name": "Fleabag",
+    "date": "27/12/2022",
+    "id": "61"
+  },
+  {
+    "name": "rick and morty s06",
+    "date": "13/12/2022",
+    "id": "62"
+  },
+  {
+    "name": "the white lotus s01",
+    "date": "28/12/2022",
+    "id": "63"
+  },
+  {
+    "name": "Brassic",
+    "date": "10/01/2023",
+    "id": "64"
+  },
+  {
+    "name": "reservation dogs s02",
+    "date": "18/01/2023",
+    "id": "65"
+  },
+  {
+    "name": "cunk on earth",
+    "date": "23/01/2023",
+    "id": "66"
+  },
+  {
+    "name": "Crashing",
+    "date": "14/02/2023",
+    "id": "67"
+  },
+  {
+    "name": "mythic quest s04",
+    "date": "15/02/2023",
+    "id": "68"
+  },
+  {
+    "name": "the righteous gemstones s01",
+    "date": "20/02/2023",
+    "id": "69"
+  },
+  {
+    "name": "sherlock",
+    "date": "15/03/2023",
+    "id": "70"
+  },
+  {
+    "name": "the last of us",
+    "date": "18/03/2023",
+    "id": "71"
+  },
+  {
+    "name": "its always sunny in philadelphia ate s15",
+    "date": "21/04/2023",
+    "id": "72"
+  },
+  {
+    "name": "succession",
+    "date": "28/05/2023",
+    "id": "73"
+  },
+  {
+    "name": "barry",
+    "date": "28/05/2023",
+    "id": "74"
+  },
+  {
+    "name": "brooklyn nine nine",
+    "date": "31/05/2023",
+    "id": "75"
+  },
+  {
+    "name": "ted lasso",
+    "date": "01/06/2023",
+    "id": "76"
+  },
+  {
+    "name": "Dark",
+    "date": "28/06/2023",
+    "id": "77"
+  },
+  {
+    "name": "Parks and rec",
+    "date": "24/07/2023",
+    "id": "78"
+  },
+  {
+    "name": "the good place",
+    "date": "05/08/2023",
+    "id": "79"
+  },
+  {
+    "name": "good omens s02",
+    "date": "08/08/2023",
+    "id": "80"
+  },
+  {
+    "name": "Arrested development até s03",
+    "date": "20/09/2023",
+    "id": "81"
+  }
+]
